@@ -36,3 +36,20 @@ body {
     font-size: 50px;
     margin-bottom: 20px;
 }
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+textarea {
+    font-size: 18px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+    height: 200px;
+    border: 1px solid #ffffff2c;
+    background-color: rgba(0, 0, 0, 0.323);
+    color: firebrick;
+}
