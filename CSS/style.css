@@ -26,3 +26,13 @@ body {
     border-bottom-right-radius: 50px;
     box-shadow: 0 0 18px 5px #920e0eb8 inset;
 }
+
+.title {
+    color: firebrick;
+    /* font-family: "Bokor", system-ui; */
+    /* font-family: "Rubik Maze", system-ui; */
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: normal;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
