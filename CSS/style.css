@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Bokor&family=Rubik+Maze&family=Rubik+Wet+Paint&display=swap');
+
+* {
+    font-family: "Bokor", system-ui;
+}
+
+
 body {
     background-image: url('./Images/bg-img.jpg');
     background-repeat: no-repeat;
