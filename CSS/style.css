@@ -8,3 +8,14 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.container {
+    width: 350px;
+    padding: 30px 25px;
+    background-color: rgba(0, 0, 0, 0.263);
+    border-radius: 5px;
+    text-align: center;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    box-shadow: 0 0 18px 5px #920e0eb8 inset;
+}
